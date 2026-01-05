@@ -2,7 +2,4205 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
-  "elements": [],
+  "elements": [
+    {
+      "id": "F8Z6rwHpW5kdUt5ZZLILc",
+      "type": "rectangle",
+      "x": 570,
+      "y": 226,
+      "width": 128,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 118753189,
+      "version": 51,
+      "versionNonce": 1084286155,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619112759,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "cIzyXrFSogGm9rDVTvJJg",
+      "type": "freedraw",
+      "x": 764,
+      "y": 184,
+      "width": 42,
+      "height": 71,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": null,
+      "seed": 41083595,
+      "version": 28,
+      "versionNonce": 1557894027,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619077533,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          -2,
+          16
+        ],
+        [
+          -2,
+          25
+        ],
+        [
+          -2,
+          35
+        ],
+        [
+          -2,
+          41
+        ],
+        [
+          -2,
+          45
+        ],
+        [
+          -2,
+          47
+        ],
+        [
+          -2,
+          53
+        ],
+        [
+          -2,
+          62
+        ],
+        [
+          -2,
+          68
+        ],
+        [
+          -2,
+          70
+        ],
+        [
+          -3,
+          71
+        ],
+        [
+          -4,
+          71
+        ],
+        [
+          -5,
+          71
+        ],
+        [
+          -11,
+          71
+        ],
+        [
+          -15,
+          71
+        ],
+        [
+          -19,
+          71
+        ],
+        [
+          -21,
+          71
+        ],
+        [
+          -23,
+          71
+        ],
+        [
+          -27,
+          71
+        ],
+        [
+          -29,
+          71
+        ],
+        [
+          -33,
+          71
+        ],
+        [
+          -35,
+          71
+        ],
+        [
+          -39,
+          69
+        ],
+        [
+          -41,
+          69
+        ],
+        [
+          -41,
+          69
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        -41,
+        69
+      ]
+    },
+    {
+      "id": "RX39V-lF3pZusPimGfAf8",
+      "type": "freedraw",
+      "x": 730,
+      "y": 235,
+      "width": 17,
+      "height": 33,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": null,
+      "seed": 33841669,
+      "version": 12,
+      "versionNonce": 606493253,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619079437,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          -4,
+          7
+        ],
+        [
+          -6,
+          13
+        ],
+        [
+          -11,
+          20
+        ],
+        [
+          -13,
+          22
+        ],
+        [
+          -6,
+          28
+        ],
+        [
+          0,
+          29
+        ],
+        [
+          3,
+          32
+        ],
+        [
+          4,
+          33
+        ],
+        [
+          4,
+          33
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        4,
+        33
+      ]
+    },
+    {
+      "id": "2TzHgHoc2gVKOwGGF3oD7",
+      "type": "freedraw",
+      "x": 504,
+      "y": 177,
+      "width": 52,
+      "height": 90,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": null,
+      "seed": 1845088043,
+      "version": 45,
+      "versionNonce": 2018401093,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619083101,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          -4,
+          10
+        ],
+        [
+          -7,
+          19
+        ],
+        [
+          -9,
+          28
+        ],
+        [
+          -11,
+          35
+        ],
+        [
+          -12,
+          38
+        ],
+        [
+          -13,
+          41
+        ],
+        [
+          -13,
+          47
+        ],
+        [
+          -15,
+          55
+        ],
+        [
+          -15,
+          59
+        ],
+        [
+          -15,
+          61
+        ],
+        [
+          -17,
+          63
+        ],
+        [
+          -17,
+          67
+        ],
+        [
+          -17,
+          71
+        ],
+        [
+          -17,
+          72
+        ],
+        [
+          -17,
+          73
+        ],
+        [
+          -16,
+          75
+        ],
+        [
+          -15,
+          76
+        ],
+        [
+          -13,
+          78
+        ],
+        [
+          -11,
+          80
+        ],
+        [
+          -9,
+          80
+        ],
+        [
+          -7,
+          80
+        ],
+        [
+          -3,
+          84
+        ],
+        [
+          0,
+          84
+        ],
+        [
+          2,
+          84
+        ],
+        [
+          4,
+          84
+        ],
+        [
+          7,
+          85
+        ],
+        [
+          8,
+          86
+        ],
+        [
+          9,
+          86
+        ],
+        [
+          11,
+          86
+        ],
+        [
+          13,
+          86
+        ],
+        [
+          14,
+          87
+        ],
+        [
+          15,
+          88
+        ],
+        [
+          17,
+          90
+        ],
+        [
+          19,
+          90
+        ],
+        [
+          23,
+          90
+        ],
+        [
+          25,
+          90
+        ],
+        [
+          27,
+          90
+        ],
+        [
+          29,
+          90
+        ],
+        [
+          31,
+          90
+        ],
+        [
+          33,
+          90
+        ],
+        [
+          35,
+          90
+        ],
+        [
+          35,
+          90
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        35,
+        90
+      ]
+    },
+    {
+      "id": "5nl8mr0JimrznWO7WAYtH",
+      "type": "freedraw",
+      "x": 537,
+      "y": 251,
+      "width": 15,
+      "height": 33,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": null,
+      "seed": 1034190379,
+      "version": 19,
+      "versionNonce": 667717733,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619084405,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          12,
+          6
+        ],
+        [
+          13,
+          8
+        ],
+        [
+          15,
+          10
+        ],
+        [
+          15,
+          12
+        ],
+        [
+          15,
+          14
+        ],
+        [
+          15,
+          22
+        ],
+        [
+          15,
+          24
+        ],
+        [
+          15,
+          26
+        ],
+        [
+          13,
+          26
+        ],
+        [
+          12,
+          27
+        ],
+        [
+          10,
+          29
+        ],
+        [
+          8,
+          31
+        ],
+        [
+          7,
+          33
+        ],
+        [
+          7,
+          33
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        7,
+        33
+      ]
+    },
+    {
+      "id": "8_kEMK33xUSC4Y2kpzsKN",
+      "type": "ellipse",
+      "x": 656,
+      "y": 291,
+      "width": 36,
+      "height": 33,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 589279813,
+      "version": 29,
+      "versionNonce": 1105518949,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619112759,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "It7AKkf8mVxmyetfgs3Qe",
+      "type": "rectangle",
+      "x": 536,
+      "y": 124,
+      "width": 624.9999999999999,
+      "height": 638.0000000000001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 970776907,
+      "version": 102,
+      "versionNonce": 1703668229,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767629249529,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "Vidku28sTNKavvUQ0s2nO",
+      "type": "freedraw",
+      "x": 707,
+      "y": 177,
+      "width": 16,
+      "height": 32,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aC",
+      "roundness": null,
+      "seed": 532683941,
+      "version": 12,
+      "versionNonce": 1052613861,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619118645,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          1,
+          -3
+        ],
+        [
+          3,
+          -7
+        ],
+        [
+          5,
+          -10
+        ],
+        [
+          8,
+          -8
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          13,
+          16
+        ],
+        [
+          15,
+          21
+        ],
+        [
+          16,
+          22
+        ],
+        [
+          16,
+          22
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        16,
+        22
+      ]
+    },
+    {
+      "id": "MqeWxITg8Bh-JzvGt4gDl",
+      "type": "freedraw",
+      "x": 431,
+      "y": 133,
+      "width": 0,
+      "height": 631,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aM",
+      "roundness": null,
+      "seed": 1843262917,
+      "version": 33,
+      "versionNonce": 2112356107,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619229390,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          16
+        ],
+        [
+          0,
+          28
+        ],
+        [
+          0,
+          44
+        ],
+        [
+          0,
+          70
+        ],
+        [
+          0,
+          104
+        ],
+        [
+          0,
+          135
+        ],
+        [
+          0,
+          162
+        ],
+        [
+          0,
+          189
+        ],
+        [
+          0,
+          215
+        ],
+        [
+          0,
+          236
+        ],
+        [
+          0,
+          262
+        ],
+        [
+          0,
+          271
+        ],
+        [
+          0,
+          287
+        ],
+        [
+          0,
+          313
+        ],
+        [
+          0,
+          350
+        ],
+        [
+          0,
+          396
+        ],
+        [
+          0,
+          438
+        ],
+        [
+          0,
+          456
+        ],
+        [
+          0,
+          473
+        ],
+        [
+          0,
+          485
+        ],
+        [
+          0,
+          506
+        ],
+        [
+          0,
+          534
+        ],
+        [
+          0,
+          564
+        ],
+        [
+          0,
+          582
+        ],
+        [
+          0,
+          603
+        ],
+        [
+          0,
+          615
+        ],
+        [
+          0,
+          625
+        ],
+        [
+          0,
+          629
+        ],
+        [
+          0,
+          631
+        ],
+        [
+          0,
+          631
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0,
+        631
+      ]
+    },
+    {
+      "id": "hGEf2Sh2N6nRnlIKVPK3C",
+      "type": "freedraw",
+      "x": 417,
+      "y": 149,
+      "width": 29,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aN",
+      "roundness": null,
+      "seed": 938532485,
+      "version": 29,
+      "versionNonce": 1476593931,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619230702,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -2
+        ],
+        [
+          0,
+          -5
+        ],
+        [
+          0,
+          -11
+        ],
+        [
+          0,
+          -15
+        ],
+        [
+          2,
+          -22
+        ],
+        [
+          2,
+          -24
+        ],
+        [
+          4,
+          -26
+        ],
+        [
+          4,
+          -28
+        ],
+        [
+          6,
+          -29
+        ],
+        [
+          8,
+          -31
+        ],
+        [
+          9,
+          -32
+        ],
+        [
+          11,
+          -32
+        ],
+        [
+          14,
+          -33
+        ],
+        [
+          15,
+          -34
+        ],
+        [
+          17,
+          -34
+        ],
+        [
+          19,
+          -34
+        ],
+        [
+          21,
+          -34
+        ],
+        [
+          22,
+          -33
+        ],
+        [
+          23,
+          -31
+        ],
+        [
+          23,
+          -27
+        ],
+        [
+          24,
+          -22
+        ],
+        [
+          26,
+          -15
+        ],
+        [
+          28,
+          -8
+        ],
+        [
+          28,
+          -4
+        ],
+        [
+          28,
+          -2
+        ],
+        [
+          29,
+          1
+        ],
+        [
+          29,
+          1
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        29,
+        1
+      ]
+    },
+    {
+      "id": "sBOakCtAMd3FHd6dszdx7",
+      "type": "freedraw",
+      "x": 285,
+      "y": 453,
+      "width": 801,
+      "height": 11,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aO",
+      "roundness": null,
+      "seed": 698397829,
+      "version": 59,
+      "versionNonce": 2030265547,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767629249529,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          7,
+          0
+        ],
+        [
+          22,
+          0
+        ],
+        [
+          39,
+          -3
+        ],
+        [
+          58,
+          -3
+        ],
+        [
+          73,
+          -3
+        ],
+        [
+          89,
+          -6
+        ],
+        [
+          103,
+          -6
+        ],
+        [
+          115,
+          -6
+        ],
+        [
+          127,
+          -6
+        ],
+        [
+          144,
+          -6
+        ],
+        [
+          168,
+          -6
+        ],
+        [
+          190,
+          -6
+        ],
+        [
+          222,
+          -6
+        ],
+        [
+          254,
+          -6
+        ],
+        [
+          286,
+          -6
+        ],
+        [
+          313,
+          -6
+        ],
+        [
+          343,
+          -6
+        ],
+        [
+          367,
+          -9
+        ],
+        [
+          388,
+          -9
+        ],
+        [
+          413,
+          -9
+        ],
+        [
+          430,
+          -9
+        ],
+        [
+          461,
+          -9
+        ],
+        [
+          483,
+          -9
+        ],
+        [
+          509,
+          -9
+        ],
+        [
+          531,
+          -9
+        ],
+        [
+          545,
+          -9
+        ],
+        [
+          560,
+          -9
+        ],
+        [
+          573,
+          -9
+        ],
+        [
+          586,
+          -9
+        ],
+        [
+          595,
+          -9
+        ],
+        [
+          604,
+          -9
+        ],
+        [
+          616,
+          -9
+        ],
+        [
+          628,
+          -9
+        ],
+        [
+          641,
+          -9
+        ],
+        [
+          662,
+          -9
+        ],
+        [
+          674,
+          -9
+        ],
+        [
+          684,
+          -9
+        ],
+        [
+          691,
+          -9
+        ],
+        [
+          699,
+          -11
+        ],
+        [
+          711,
+          -9
+        ],
+        [
+          720,
+          -9
+        ],
+        [
+          729,
+          -9
+        ],
+        [
+          736,
+          -9
+        ],
+        [
+          742,
+          -9
+        ],
+        [
+          747,
+          -9
+        ],
+        [
+          754,
+          -9
+        ],
+        [
+          771,
+          -9
+        ],
+        [
+          783,
+          -9
+        ],
+        [
+          792,
+          -7
+        ],
+        [
+          797,
+          -7
+        ],
+        [
+          799,
+          -7
+        ],
+        [
+          801,
+          -7
+        ],
+        [
+          801,
+          -7
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        801,
+        -7
+      ]
+    },
+    {
+      "id": "9HQIHjZfvo_3wNviPZidB",
+      "type": "freedraw",
+      "x": 1080,
+      "y": 426,
+      "width": 26,
+      "height": 37,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aP",
+      "roundness": null,
+      "seed": 1060851141,
+      "version": 24,
+      "versionNonce": 1139568197,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619234495,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          9,
+          5
+        ],
+        [
+          12,
+          6
+        ],
+        [
+          14,
+          8
+        ],
+        [
+          17,
+          9
+        ],
+        [
+          20,
+          12
+        ],
+        [
+          21,
+          13
+        ],
+        [
+          24,
+          14
+        ],
+        [
+          24,
+          16
+        ],
+        [
+          25,
+          17
+        ],
+        [
+          26,
+          18
+        ],
+        [
+          26,
+          19
+        ],
+        [
+          25,
+          20
+        ],
+        [
+          24,
+          21
+        ],
+        [
+          20,
+          25
+        ],
+        [
+          18,
+          27
+        ],
+        [
+          18,
+          29
+        ],
+        [
+          16,
+          33
+        ],
+        [
+          14,
+          35
+        ],
+        [
+          12,
+          37
+        ],
+        [
+          12,
+          37
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        12,
+        37
+      ]
+    },
+    {
+      "id": "-4IzjR7xF84xnkYAmhaqv",
+      "type": "freedraw",
+      "x": 359,
+      "y": 71,
+      "width": 44,
+      "height": 73,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aQ",
+      "roundness": null,
+      "seed": 2026470187,
+      "version": 58,
+      "versionNonce": 1893297995,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619237631,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          5,
+          9
+        ],
+        [
+          12,
+          12
+        ],
+        [
+          17,
+          15
+        ],
+        [
+          19,
+          15
+        ],
+        [
+          21,
+          15
+        ],
+        [
+          22,
+          14
+        ],
+        [
+          22,
+          12
+        ],
+        [
+          22,
+          10
+        ],
+        [
+          22,
+          8
+        ],
+        [
+          22,
+          6
+        ],
+        [
+          22,
+          5
+        ],
+        [
+          22,
+          4
+        ],
+        [
+          22,
+          0
+        ],
+        [
+          22,
+          -2
+        ],
+        [
+          22,
+          -4
+        ],
+        [
+          22,
+          -3
+        ],
+        [
+          28,
+          8
+        ],
+        [
+          28,
+          12
+        ],
+        [
+          30,
+          20
+        ],
+        [
+          30,
+          24
+        ],
+        [
+          30,
+          29
+        ],
+        [
+          30,
+          34
+        ],
+        [
+          30,
+          41
+        ],
+        [
+          30,
+          54
+        ],
+        [
+          30,
+          62
+        ],
+        [
+          30,
+          66
+        ],
+        [
+          30,
+          68
+        ],
+        [
+          30,
+          69
+        ],
+        [
+          28,
+          69
+        ],
+        [
+          26,
+          69
+        ],
+        [
+          20,
+          69
+        ],
+        [
+          18,
+          69
+        ],
+        [
+          14,
+          67
+        ],
+        [
+          11,
+          64
+        ],
+        [
+          8,
+          61
+        ],
+        [
+          6,
+          59
+        ],
+        [
+          5,
+          58
+        ],
+        [
+          5,
+          56
+        ],
+        [
+          5,
+          54
+        ],
+        [
+          5,
+          52
+        ],
+        [
+          5,
+          48
+        ],
+        [
+          5,
+          46
+        ],
+        [
+          5,
+          44
+        ],
+        [
+          7,
+          44
+        ],
+        [
+          11,
+          42
+        ],
+        [
+          15,
+          40
+        ],
+        [
+          21,
+          40
+        ],
+        [
+          29,
+          40
+        ],
+        [
+          36,
+          40
+        ],
+        [
+          38,
+          40
+        ],
+        [
+          42,
+          40
+        ],
+        [
+          43,
+          39
+        ],
+        [
+          44,
+          38
+        ],
+        [
+          44,
+          38
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        44,
+        38
+      ]
+    },
+    {
+      "id": "rmk0GW2154oay4W_-Pkvv",
+      "type": "freedraw",
+      "x": 1079,
+      "y": 491,
+      "width": 48,
+      "height": 55,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aR",
+      "roundness": null,
+      "seed": 1592859205,
+      "version": 62,
+      "versionNonce": 1890216677,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619240231,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          1,
+          -3
+        ],
+        [
+          2,
+          -4
+        ],
+        [
+          3,
+          -5
+        ],
+        [
+          4,
+          -6
+        ],
+        [
+          6,
+          -6
+        ],
+        [
+          8,
+          -6
+        ],
+        [
+          10,
+          -6
+        ],
+        [
+          12,
+          -6
+        ],
+        [
+          15,
+          -5
+        ],
+        [
+          16,
+          -2
+        ],
+        [
+          17,
+          -1
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          19,
+          3
+        ],
+        [
+          19,
+          5
+        ],
+        [
+          18,
+          10
+        ],
+        [
+          15,
+          15
+        ],
+        [
+          11,
+          19
+        ],
+        [
+          9,
+          23
+        ],
+        [
+          7,
+          27
+        ],
+        [
+          6,
+          28
+        ],
+        [
+          5,
+          28
+        ],
+        [
+          5,
+          22
+        ],
+        [
+          7,
+          18
+        ],
+        [
+          9,
+          14
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          13,
+          6
+        ],
+        [
+          13,
+          4
+        ],
+        [
+          13,
+          2
+        ],
+        [
+          14,
+          -1
+        ],
+        [
+          15,
+          -4
+        ],
+        [
+          19,
+          -8
+        ],
+        [
+          19,
+          -10
+        ],
+        [
+          21,
+          -12
+        ],
+        [
+          23,
+          -18
+        ],
+        [
+          26,
+          -21
+        ],
+        [
+          28,
+          -25
+        ],
+        [
+          30,
+          -27
+        ],
+        [
+          30,
+          -26
+        ],
+        [
+          24,
+          -17
+        ],
+        [
+          21,
+          -9
+        ],
+        [
+          19,
+          -1
+        ],
+        [
+          19,
+          1
+        ],
+        [
+          17,
+          3
+        ],
+        [
+          17,
+          5
+        ],
+        [
+          17,
+          7
+        ],
+        [
+          17,
+          11
+        ],
+        [
+          17,
+          13
+        ],
+        [
+          17,
+          14
+        ],
+        [
+          17,
+          15
+        ],
+        [
+          18,
+          16
+        ],
+        [
+          22,
+          18
+        ],
+        [
+          26,
+          20
+        ],
+        [
+          32,
+          22
+        ],
+        [
+          36,
+          22
+        ],
+        [
+          40,
+          22
+        ],
+        [
+          42,
+          22
+        ],
+        [
+          44,
+          22
+        ],
+        [
+          48,
+          22
+        ],
+        [
+          48,
+          22
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        48,
+        22
+      ]
+    },
+    {
+      "id": "qcBclgo1oWZnHfSAK-5tv",
+      "type": "freedraw",
+      "x": 538,
+      "y": 441,
+      "width": 153,
+      "height": 205,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aS",
+      "roundness": null,
+      "seed": 1855894949,
+      "version": 41,
+      "versionNonce": 468844459,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619270271,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4,
+          -3
+        ],
+        [
+          20,
+          -19
+        ],
+        [
+          27,
+          -30
+        ],
+        [
+          34,
+          -41
+        ],
+        [
+          39,
+          -49
+        ],
+        [
+          42,
+          -52
+        ],
+        [
+          46,
+          -58
+        ],
+        [
+          48,
+          -62
+        ],
+        [
+          54,
+          -70
+        ],
+        [
+          59,
+          -75
+        ],
+        [
+          62,
+          -82
+        ],
+        [
+          66,
+          -86
+        ],
+        [
+          69,
+          -89
+        ],
+        [
+          75,
+          -97
+        ],
+        [
+          78,
+          -100
+        ],
+        [
+          82,
+          -106
+        ],
+        [
+          83,
+          -110
+        ],
+        [
+          88,
+          -115
+        ],
+        [
+          93,
+          -121
+        ],
+        [
+          100,
+          -131
+        ],
+        [
+          105,
+          -139
+        ],
+        [
+          111,
+          -145
+        ],
+        [
+          118,
+          -153
+        ],
+        [
+          122,
+          -157
+        ],
+        [
+          125,
+          -165
+        ],
+        [
+          128,
+          -168
+        ],
+        [
+          132,
+          -172
+        ],
+        [
+          134,
+          -177
+        ],
+        [
+          139,
+          -181
+        ],
+        [
+          142,
+          -186
+        ],
+        [
+          143,
+          -187
+        ],
+        [
+          145,
+          -189
+        ],
+        [
+          146,
+          -194
+        ],
+        [
+          149,
+          -196
+        ],
+        [
+          151,
+          -199
+        ],
+        [
+          151,
+          -201
+        ],
+        [
+          153,
+          -203
+        ],
+        [
+          153,
+          -205
+        ],
+        [
+          153,
+          -205
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        153,
+        -205
+      ]
+    },
+    {
+      "id": "FgflLataPXgo51W2haB4o",
+      "type": "freedraw",
+      "x": 450,
+      "y": 218,
+      "width": 255,
+      "height": 9,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aT",
+      "roundness": null,
+      "seed": 268078053,
+      "version": 47,
+      "versionNonce": 619585867,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619272183,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          13,
+          0
+        ],
+        [
+          29,
+          0
+        ],
+        [
+          42,
+          0
+        ],
+        [
+          55,
+          0
+        ],
+        [
+          68,
+          0
+        ],
+        [
+          77,
+          0
+        ],
+        [
+          86,
+          0
+        ],
+        [
+          92,
+          0
+        ],
+        [
+          98,
+          0
+        ],
+        [
+          104,
+          0
+        ],
+        [
+          111,
+          0
+        ],
+        [
+          117,
+          0
+        ],
+        [
+          126,
+          0
+        ],
+        [
+          132,
+          0
+        ],
+        [
+          138,
+          0
+        ],
+        [
+          144,
+          0
+        ],
+        [
+          148,
+          0
+        ],
+        [
+          150,
+          0
+        ],
+        [
+          154,
+          0
+        ],
+        [
+          158,
+          0
+        ],
+        [
+          162,
+          0
+        ],
+        [
+          166,
+          0
+        ],
+        [
+          172,
+          0
+        ],
+        [
+          176,
+          0
+        ],
+        [
+          182,
+          0
+        ],
+        [
+          188,
+          2
+        ],
+        [
+          197,
+          5
+        ],
+        [
+          205,
+          5
+        ],
+        [
+          217,
+          7
+        ],
+        [
+          223,
+          9
+        ],
+        [
+          227,
+          9
+        ],
+        [
+          233,
+          9
+        ],
+        [
+          235,
+          9
+        ],
+        [
+          239,
+          9
+        ],
+        [
+          241,
+          9
+        ],
+        [
+          243,
+          9
+        ],
+        [
+          245,
+          9
+        ],
+        [
+          247,
+          9
+        ],
+        [
+          249,
+          9
+        ],
+        [
+          251,
+          9
+        ],
+        [
+          253,
+          9
+        ],
+        [
+          255,
+          9
+        ],
+        [
+          255,
+          9
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        255,
+        9
+      ]
+    },
+    {
+      "id": "RzfqsJKvH1Akj2SS3JrlX",
+      "type": "freedraw",
+      "x": 708,
+      "y": 226,
+      "width": 0,
+      "height": 217,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aU",
+      "roundness": null,
+      "seed": 169527365,
+      "version": 35,
+      "versionNonce": 2047855403,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619273519,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          4
+        ],
+        [
+          0,
+          18
+        ],
+        [
+          0,
+          29
+        ],
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          44
+        ],
+        [
+          0,
+          50
+        ],
+        [
+          0,
+          56
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          66
+        ],
+        [
+          0,
+          74
+        ],
+        [
+          0,
+          83
+        ],
+        [
+          0,
+          92
+        ],
+        [
+          0,
+          103
+        ],
+        [
+          0,
+          115
+        ],
+        [
+          0,
+          125
+        ],
+        [
+          0,
+          136
+        ],
+        [
+          0,
+          146
+        ],
+        [
+          0,
+          154
+        ],
+        [
+          0,
+          161
+        ],
+        [
+          0,
+          167
+        ],
+        [
+          0,
+          173
+        ],
+        [
+          0,
+          179
+        ],
+        [
+          0,
+          187
+        ],
+        [
+          0,
+          192
+        ],
+        [
+          0,
+          194
+        ],
+        [
+          0,
+          196
+        ],
+        [
+          0,
+          198
+        ],
+        [
+          0,
+          202
+        ],
+        [
+          0,
+          209
+        ],
+        [
+          0,
+          213
+        ],
+        [
+          0,
+          215
+        ],
+        [
+          0,
+          217
+        ],
+        [
+          0,
+          217
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0,
+        217
+      ]
+    },
+    {
+      "id": "ETCr9x2HXOjVR6eiqBfT8",
+      "type": "freedraw",
+      "x": 679,
+      "y": 232,
+      "width": 15,
+      "height": 12,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aW",
+      "roundness": null,
+      "seed": 629570091,
+      "version": 14,
+      "versionNonce": 1921558667,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619281951,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          11,
+          -1
+        ],
+        [
+          13,
+          -1
+        ],
+        [
+          14,
+          -1
+        ],
+        [
+          15,
+          -1
+        ],
+        [
+          15,
+          1
+        ],
+        [
+          15,
+          3
+        ],
+        [
+          15,
+          7
+        ],
+        [
+          15,
+          9
+        ],
+        [
+          15,
+          11
+        ],
+        [
+          15,
+          11
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        15,
+        11
+      ]
+    },
+    {
+      "id": "vmi09XzfFglDl7qcsHdnW",
+      "type": "freedraw",
+      "x": 562,
+      "y": 284,
+      "width": 0.0001,
+      "height": 0.0001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aX",
+      "roundness": null,
+      "seed": 470793477,
+      "version": 3,
+      "versionNonce": 1378209899,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619283271,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0.0001,
+        0.0001
+      ]
+    },
+    {
+      "id": "qNCgnT4d3osm4bdO5BWuP",
+      "type": "freedraw",
+      "x": 459,
+      "y": 444,
+      "width": 118,
+      "height": 153,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aY",
+      "roundness": null,
+      "seed": 1883488037,
+      "version": 48,
+      "versionNonce": 788209701,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619285463,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          -2
+        ],
+        [
+          6,
+          -6
+        ],
+        [
+          9,
+          -7
+        ],
+        [
+          11,
+          -9
+        ],
+        [
+          13,
+          -11
+        ],
+        [
+          17,
+          -15
+        ],
+        [
+          19,
+          -17
+        ],
+        [
+          23,
+          -21
+        ],
+        [
+          24,
+          -24
+        ],
+        [
+          26,
+          -26
+        ],
+        [
+          30,
+          -30
+        ],
+        [
+          36,
+          -36
+        ],
+        [
+          38,
+          -38
+        ],
+        [
+          42,
+          -44
+        ],
+        [
+          46,
+          -48
+        ],
+        [
+          48,
+          -52
+        ],
+        [
+          52,
+          -60
+        ],
+        [
+          56,
+          -64
+        ],
+        [
+          58,
+          -68
+        ],
+        [
+          63,
+          -73
+        ],
+        [
+          66,
+          -77
+        ],
+        [
+          68,
+          -79
+        ],
+        [
+          70,
+          -82
+        ],
+        [
+          74,
+          -86
+        ],
+        [
+          78,
+          -90
+        ],
+        [
+          82,
+          -95
+        ],
+        [
+          83,
+          -98
+        ],
+        [
+          86,
+          -101
+        ],
+        [
+          90,
+          -105
+        ],
+        [
+          92,
+          -109
+        ],
+        [
+          93,
+          -112
+        ],
+        [
+          96,
+          -115
+        ],
+        [
+          98,
+          -119
+        ],
+        [
+          99,
+          -124
+        ],
+        [
+          102,
+          -127
+        ],
+        [
+          103,
+          -130
+        ],
+        [
+          106,
+          -133
+        ],
+        [
+          109,
+          -138
+        ],
+        [
+          112,
+          -142
+        ],
+        [
+          112,
+          -143
+        ],
+        [
+          114,
+          -145
+        ],
+        [
+          116,
+          -149
+        ],
+        [
+          116,
+          -151
+        ],
+        [
+          117,
+          -152
+        ],
+        [
+          118,
+          -153
+        ],
+        [
+          118,
+          -153
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        118,
+        -153
+      ]
+    },
+    {
+      "id": "sIUbP1NrEUvtja1Tj4SSB",
+      "type": "freedraw",
+      "x": 567,
+      "y": 292,
+      "width": 15,
+      "height": 22,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aZ",
+      "roundness": null,
+      "seed": 768529227,
+      "version": 23,
+      "versionNonce": 1482445829,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619286935,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          2,
+          -1
+        ],
+        [
+          4,
+          -3
+        ],
+        [
+          6,
+          -3
+        ],
+        [
+          7,
+          -3
+        ],
+        [
+          7,
+          -4
+        ],
+        [
+          9,
+          -4
+        ],
+        [
+          10,
+          -4
+        ],
+        [
+          12,
+          -2
+        ],
+        [
+          13,
+          -1
+        ],
+        [
+          13,
+          0
+        ],
+        [
+          13,
+          2
+        ],
+        [
+          14,
+          7
+        ],
+        [
+          15,
+          8
+        ],
+        [
+          15,
+          10
+        ],
+        [
+          15,
+          12
+        ],
+        [
+          15,
+          14
+        ],
+        [
+          15,
+          16
+        ],
+        [
+          15,
+          18
+        ],
+        [
+          15,
+          18
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        15,
+        18
+      ]
+    },
+    {
+      "id": "facFSH7VtYyLZAhR2In-F",
+      "type": "freedraw",
+      "x": 455,
+      "y": 288,
+      "width": 118,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ab",
+      "roundness": null,
+      "seed": 1513916203,
+      "version": 38,
+      "versionNonce": 701349131,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619301231,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          10,
+          0
+        ],
+        [
+          16,
+          0
+        ],
+        [
+          18,
+          0
+        ],
+        [
+          22,
+          0
+        ],
+        [
+          28,
+          0
+        ],
+        [
+          30,
+          0
+        ],
+        [
+          32,
+          0
+        ],
+        [
+          34,
+          0
+        ],
+        [
+          36,
+          0
+        ],
+        [
+          40,
+          0
+        ],
+        [
+          44,
+          0
+        ],
+        [
+          50,
+          0
+        ],
+        [
+          52,
+          0
+        ],
+        [
+          58,
+          0
+        ],
+        [
+          60,
+          0
+        ],
+        [
+          63,
+          0
+        ],
+        [
+          66,
+          0
+        ],
+        [
+          70,
+          0
+        ],
+        [
+          74,
+          0
+        ],
+        [
+          76,
+          0
+        ],
+        [
+          78,
+          0
+        ],
+        [
+          80,
+          0
+        ],
+        [
+          84,
+          0
+        ],
+        [
+          92,
+          0
+        ],
+        [
+          98,
+          0
+        ],
+        [
+          102,
+          0
+        ],
+        [
+          104,
+          0
+        ],
+        [
+          106,
+          0
+        ],
+        [
+          108,
+          0
+        ],
+        [
+          112,
+          0
+        ],
+        [
+          114,
+          0
+        ],
+        [
+          116,
+          0
+        ],
+        [
+          118,
+          0
+        ],
+        [
+          118,
+          0
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        118,
+        0
+      ]
+    },
+    {
+      "id": "1xcfpQkjvx59PTcwLoV0P",
+      "type": "freedraw",
+      "x": 593,
+      "y": 286,
+      "width": 0,
+      "height": 159,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ac",
+      "roundness": null,
+      "seed": 1624883333,
+      "version": 34,
+      "versionNonce": 33193445,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619303015,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          9
+        ],
+        [
+          0,
+          21
+        ],
+        [
+          0,
+          25
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          46
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          56
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          0,
+          66
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          76
+        ],
+        [
+          0,
+          82
+        ],
+        [
+          0,
+          91
+        ],
+        [
+          0,
+          97
+        ],
+        [
+          0,
+          104
+        ],
+        [
+          0,
+          110
+        ],
+        [
+          0,
+          123
+        ],
+        [
+          0,
+          129
+        ],
+        [
+          0,
+          135
+        ],
+        [
+          0,
+          137
+        ],
+        [
+          0,
+          141
+        ],
+        [
+          0,
+          145
+        ],
+        [
+          0,
+          147
+        ],
+        [
+          0,
+          151
+        ],
+        [
+          0,
+          153
+        ],
+        [
+          0,
+          155
+        ],
+        [
+          0,
+          157
+        ],
+        [
+          0,
+          159
+        ],
+        [
+          0,
+          159
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0,
+        159
+      ]
+    },
+    {
+      "id": "Sxy3dbaleCiu6liNlFS6w",
+      "type": "freedraw",
+      "x": 452,
+      "y": 219,
+      "width": 21,
+      "height": 5,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ad",
+      "roundness": null,
+      "seed": 140994955,
+      "version": 17,
+      "versionNonce": 552031141,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619308231,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -3,
+          -1
+        ],
+        [
+          -5,
+          -3
+        ],
+        [
+          -7,
+          -3
+        ],
+        [
+          -9,
+          -3
+        ],
+        [
+          -11,
+          -3
+        ],
+        [
+          -12,
+          -3
+        ],
+        [
+          -14,
+          -4
+        ],
+        [
+          -15,
+          -5
+        ],
+        [
+          -16,
+          -5
+        ],
+        [
+          -17,
+          -5
+        ],
+        [
+          -19,
+          -5
+        ],
+        [
+          -21,
+          -3
+        ],
+        [
+          -21,
+          -3
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        -21,
+        -3
+      ]
+    },
+    {
+      "id": "pqPqGPAv2K3lKhHR0YMGR",
+      "type": "freedraw",
+      "x": 452,
+      "y": 286,
+      "width": 20,
+      "height": 1,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ae",
+      "roundness": null,
+      "seed": 449120203,
+      "version": 13,
+      "versionNonce": 1078828709,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619309455,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -2,
+          -1
+        ],
+        [
+          -4,
+          -1
+        ],
+        [
+          -6,
+          -1
+        ],
+        [
+          -8,
+          -1
+        ],
+        [
+          -10,
+          -1
+        ],
+        [
+          -13,
+          -1
+        ],
+        [
+          -14,
+          -1
+        ],
+        [
+          -16,
+          -1
+        ],
+        [
+          -18,
+          -1
+        ],
+        [
+          -20,
+          -1
+        ],
+        [
+          -20,
+          -1
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        -20,
+        -1
+      ]
+    },
+    {
+      "id": "Ge93IN36rJDDumXQLQtE-",
+      "type": "freedraw",
+      "x": 802,
+      "y": 143,
+      "width": 2,
+      "height": 54,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "af",
+      "roundness": null,
+      "seed": 1514830699,
+      "version": 12,
+      "versionNonce": 589279019,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619334255,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          9
+        ],
+        [
+          0,
+          18
+        ],
+        [
+          0,
+          32
+        ],
+        [
+          0,
+          36
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          46
+        ],
+        [
+          0,
+          50
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          2,
+          54
+        ],
+        [
+          2,
+          54
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        2,
+        54
+      ]
+    },
+    {
+      "id": "FrZpsN2jdnZW9fiFJv8li",
+      "type": "freedraw",
+      "x": 784,
+      "y": 201,
+      "width": 46,
+      "height": 30,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ag",
+      "roundness": null,
+      "seed": 510428261,
+      "version": 25,
+      "versionNonce": 1992898539,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619335392,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          -1
+        ],
+        [
+          3,
+          -1
+        ],
+        [
+          7,
+          -1
+        ],
+        [
+          11,
+          1
+        ],
+        [
+          13,
+          3
+        ],
+        [
+          15,
+          5
+        ],
+        [
+          18,
+          6
+        ],
+        [
+          20,
+          8
+        ],
+        [
+          23,
+          9
+        ],
+        [
+          23,
+          10
+        ],
+        [
+          24,
+          11
+        ],
+        [
+          26,
+          11
+        ],
+        [
+          28,
+          13
+        ],
+        [
+          30,
+          13
+        ],
+        [
+          32,
+          11
+        ],
+        [
+          34,
+          5
+        ],
+        [
+          37,
+          1
+        ],
+        [
+          39,
+          -4
+        ],
+        [
+          41,
+          -8
+        ],
+        [
+          43,
+          -12
+        ],
+        [
+          45,
+          -16
+        ],
+        [
+          46,
+          -17
+        ],
+        [
+          46,
+          -17
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        46,
+        -17
+      ]
+    },
+    {
+      "id": "yJanlC6npRAtt9edv7837",
+      "type": "text",
+      "x": 796,
+      "y": 241,
+      "width": 165.05984497070312,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ap",
+      "roundness": null,
+      "seed": 2114675371,
+      "version": 27,
+      "versionNonce": 1152832837,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619411660,
+      "link": null,
+      "locked": false,
+      "text": "Ypx + brickheight",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Ypx + brickheight",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "iCGXqGQL0OsyomYFG-geJ",
+      "type": "rectangle",
+      "x": 732,
+      "y": 569,
+      "width": 113,
+      "height": 49,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aq",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1335625733,
+      "version": 34,
+      "versionNonce": 1319687525,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619456441,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "FyrrxdrECu7xBET3ZVMgt",
+      "type": "text",
+      "x": 624,
+      "y": 521,
+      "width": 432.8195495605469,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ar",
+      "roundness": null,
+      "seed": 1477632197,
+      "version": 120,
+      "versionNonce": 923256677,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619565631,
+      "link": null,
+      "locked": false,
+      "text": "x >= brickX && brick <= brickX+brick.width   ",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "x >= brickX && brick <= brickX+brick.width   ",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "h-FnGd56kMCKfbXYy1UsM",
+      "type": "text",
+      "x": 717,
+      "y": 478,
+      "width": 241.759765625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "au",
+      "roundness": null,
+      "seed": 1439480779,
+      "version": 44,
+      "versionNonce": 1497408683,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767619556910,
+      "link": null,
+      "locked": false,
+      "text": "x = brickY + brick.height ",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "x = brickY + brick.height ",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "NuNE-MvhlAA6mNRw5Awgq",
+      "type": "freedraw",
+      "x": 676,
+      "y": 595,
+      "width": 38,
+      "height": 2,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "av",
+      "roundness": null,
+      "seed": 1787588267,
+      "version": 15,
+      "versionNonce": 1085193509,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767625030003,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          8,
+          0
+        ],
+        [
+          12,
+          2
+        ],
+        [
+          16,
+          2
+        ],
+        [
+          18,
+          2
+        ],
+        [
+          22,
+          2
+        ],
+        [
+          24,
+          2
+        ],
+        [
+          28,
+          2
+        ],
+        [
+          30,
+          2
+        ],
+        [
+          34,
+          2
+        ],
+        [
+          36,
+          0
+        ],
+        [
+          38,
+          0
+        ],
+        [
+          38,
+          0
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        38,
+        0
+      ]
+    },
+    {
+      "id": "DnoMp4kWe-arLlQoMWweG",
+      "type": "freedraw",
+      "x": 708,
+      "y": 580,
+      "width": 20,
+      "height": 27,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aw",
+      "roundness": null,
+      "seed": 1742808651,
+      "version": 17,
+      "versionNonce": 548504293,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767625031044,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          7,
+          6
+        ],
+        [
+          15,
+          11
+        ],
+        [
+          16,
+          12
+        ],
+        [
+          18,
+          14
+        ],
+        [
+          19,
+          15
+        ],
+        [
+          18,
+          16
+        ],
+        [
+          16,
+          18
+        ],
+        [
+          14,
+          18
+        ],
+        [
+          10,
+          20
+        ],
+        [
+          6,
+          24
+        ],
+        [
+          2,
+          26
+        ],
+        [
+          -1,
+          27
+        ],
+        [
+          -1,
+          27
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        -1,
+        27
+      ]
+    },
+    {
+      "id": "iJ32THkEo-2OQUGPFF1Nq",
+      "type": "rectangle",
+      "x": 1033,
+      "y": 148,
+      "width": 114,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ay",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1585558219,
+      "version": 44,
+      "versionNonce": 181004427,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767629213946,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "RHWyCPYh5XVa19SoTTfn1",
+      "type": "rectangle",
+      "x": 1044,
+      "y": 214,
+      "width": 107,
+      "height": 33,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "az",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 731430853,
+      "version": 27,
+      "versionNonce": 49899819,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767629237346,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "0101nTUpbulozSfJTcSj0",
+      "type": "rectangle",
+      "x": 1042,
+      "y": 263,
+      "width": 101,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b00",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 42215685,
+      "version": 45,
+      "versionNonce": 323153419,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767629251321,
+      "link": null,
+      "locked": false
+    }
+  ],
   "appState": {
     "gridSize": 20,
     "gridStep": 5,
