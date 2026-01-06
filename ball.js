@@ -124,6 +124,7 @@ function ball() {
         dy = -dy
     }
     if ((y + letterHeight) >= boardHeight) {
+        ballLaunched = false 
         countLive++
         fail = true
     }
