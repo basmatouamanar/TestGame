@@ -75,7 +75,7 @@ let brickHeight = 20
 
 for (let i = 0; i < rows; i++) {
     for (let j = 0; j < cols; j++) {
-        let brick = document.createElement("div");
+        let brick = document.createElement('div');
         brick.className = "brick";
 
         brick.style.width = "40px";
@@ -88,7 +88,7 @@ for (let i = 0; i < rows; i++) {
         bricks.push({
             x: parseInt(brick.style.left),
             y: parseInt(brick.style.top),
-            el : brick
+            el: brick
         })
         //console.log(brickXY)
         boardBricks.appendChild(brick);
@@ -96,7 +96,19 @@ for (let i = 0; i < rows; i++) {
     //brickY.push(brick.style.top)
 }
 
+let lives = document.getElementById("live") 
+for (let u = 0; u < 3; u++) {
+    let live = document.createElement('div')
+    live.className = "live"
+    live.style.width = "20px"
+    live.style.height = "20px"
+    live.style.border = "10px"
+    lives.appendChild(live)
 
+}
+
+let countLive = 0
+let fail = false
 
 function ball() {
     x = x + dx
@@ -108,8 +120,12 @@ function ball() {
          y = boardHeight - letterHeight
          return 
      }*/
-    if (y <= 0 || (y + letterHeight) >= boardHeight) {
+    if (y <= 0) {
         dy = -dy
+    }
+    if ((y + letterHeight) >= boardHeight) {
+        countLive++
+        fail = true
     }
     //let ydown = y + letterHeight  
     let ydown = y
@@ -121,23 +137,23 @@ function ball() {
         dx = (contact - 0.5) * 2 * maxDX
     }
     let contact = false
-   for (let i = 0; i < bricks.length; i++) {
-    let brick = bricks[i]
+    for (let i = 0; i < bricks.length; i++) {
+        let brick = bricks[i]
 
-    if (
-        x < brick.x + brickWidth &&
-        x + letterWidth > brick.x &&
-        y < brick.y + brickHeight &&
-        y + letterHeight > brick.y
-    ) {
-        dy = -dy
+        if (
+            x < brick.x + brickWidth &&
+            x + letterWidth > brick.x &&
+            y < brick.y + brickHeight &&
+            y + letterHeight > brick.y
+        ) {
+            dy = -dy
 
-        brick.el.remove()   // BONNE brique
-        bricks.splice(i, 1)
+            brick.el.remove()   // BONNE brique
+            bricks.splice(i, 1)
 
-        break
+            break
+        }
     }
-}
 
 
 
@@ -147,13 +163,15 @@ function ball() {
 function loop() {
     movePabble()
 
-    if (!ballLaunched) {
+    if (!ballLaunched || fail) {
         x = pabbleX + (aWidth / 2) - (letterWidth / 2)
         y = pabbleY - letterHeight
+        if (countLive < 3) { 
+            fail = false
+        }
     } else {
         ball()
     }
-
     element.style.transform = `translate(${x}px, ${y}px)`
     requestAnimationFrame(loop)
 }
