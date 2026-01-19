@@ -2,23 +2,43 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <title>Move A</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brick Breaker</title>
+    <link rel="icon" type="image/jpeg" href="./images/LoGo.jpeg">
+
+    <link rel="stylesheet" href="./css/start.css">
+    <link rel="stylesheet" href="./css/style.css">
+
 
 </head>
 
-<body>
-  <div class="info-Cont">
-    <div id="live"></div>
-    <div id="score">score:0</div>
-    <button id="StopBtn">Pause</button>
-  </div>
-  <div id="board">
-    <div id="balle"></div>
-    <div id="paddle"></div>
-  </div>
+    <body>
+        
+        <div class="startContainer">
+            <div class="souContaner">
 
-  <script type="module" src="ball.js"></script>
-</body>
-</html>
+                <div class="arc-title">
+                    BRICK<br>BREAKER
+                </div>
+                <div id='stbuton' class="start-btn">
+                    <img src="./images/play-button.png" alt="Play" class="startButton">
+                    <div class="startbtn">START</div>
+                </div>
+
+                
+                    <div class="instTitle">🕹️ Game Instructions</div>
+
+
+                    <div class="instI">Press Space to start the ball</div>
+                    <div class="instI">Press P to pause the game</div>
+                 
+
+
+            </div>
+        </div>
+     
+        <script type="module" src="start.js"></script>
+    </body>
+
+    </html>
