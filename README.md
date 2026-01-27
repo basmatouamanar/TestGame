@@ -1,4 +1,5 @@
 # 🧱 Brick Breaker Game (JavaScript)
+![Uploading image.png…]()
 
 A classic **Brick Breaker** browser game built with **vanilla JavaScript**, using `requestAnimationFrame` for smooth gameplay, responsive resizing, and a real-time timer with pause support.
 
